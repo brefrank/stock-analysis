@@ -7,14 +7,14 @@ Using VBA macros within Microsoft Excel, yearly summaries of daily volume and re
 [VBA_Challenge.xlsx](https://github.com/brefrank/stock-analysis/files/7220227/VBA_Challenge.xlsx)
 
 
-### Analysis Results
+#### Analysis Results
 
 As shown below, the majority of stocks in our 2017 data set had a positive return while 2018 showed an overall negative return. By comparing return percentages to daily volumes, there does not seem to be a correlation between dollar amounts and success rate. If we were to use this data to determine which stock to invest in, there is only one option: ticker ENPH had the only positive return percentage over both years. Ideally, however, more data would be gathered and compared to find a more conclusive trend. 
 
 <img width="147" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/90646961/134570764-9728db8d-8f1f-4d59-8186-ef8eeb371060.png"> <img width="147" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/90646961/134573985-6e743ede-c8d3-4e58-8bd7-2478a6a74a7d.png">
 
 
-### Refactoring Results
+#### Refactoring Results
 
 The second portion of this project was to refactor our originally written macro code for efficiency. This goal was accomplished and can be seen below. The time it took to run our originally written code (photos 1) was roughly ten times longer than the refactored code(photo 2). 
 
