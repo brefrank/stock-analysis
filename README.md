@@ -11,18 +11,15 @@ Using VBA macros within Microsoft Excel, yearly summaries of daily volume and re
 
 As shown below, the majority of stocks in our 2017 data set had a positive return while 2018 showed an overall negative return. By comparing return percentages to daily volumes, there does not seem to be a correlation between dollar amounts and success rate. If we were to use this data to determine which stock to invest in, there is only one option: ticker ENPH had the only positive return percentage over both years. Ideally, however, more data would be gathered and compared to find a more conclusive trend. 
 
-<img width="147" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/90646961/134570764-9728db8d-8f1f-4d59-8186-ef8eeb371060.png">
-<img width="147" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/90646961/134573985-6e743ede-c8d3-4e58-8bd7-2478a6a74a7d.png">
+<img width="147" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/90646961/134570764-9728db8d-8f1f-4d59-8186-ef8eeb371060.png"> <img width="147" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/90646961/134573985-6e743ede-c8d3-4e58-8bd7-2478a6a74a7d.png">
 
 
 ### Refactoring Results
 
-The second portion of this project was to refactor our originally written macro code for efficiency. This goal was accomplished and can be seen below. The time it took to run our originally written code (photos 1&3) was roughly ten times longer than the refactored code(photos 2&4). 
+The second portion of this project was to refactor our originally written macro code for efficiency. This goal was accomplished and can be seen below. The time it took to run our originally written code (photos 1) was roughly ten times longer than the refactored code(photo 2). 
 
-1. <img width="157" alt="VBA_Original_2017_Time" src="https://user-images.githubusercontent.com/90646961/134580576-8822ca63-3885-4322-8ce4-6a524693721b.png">
-2. <img width="162" alt="VBA_Challenge_2017_Time" src="https://user-images.githubusercontent.com/90646961/134580597-4d040974-a3a9-4694-9f2a-81de49d65a1b.png">
-3. <img width="162" alt="VBA_Original_2018_Time" src="https://user-images.githubusercontent.com/90646961/134580610-c0a8bbb7-655a-4c2c-9f53-e4c99ea45c2a.png">
-4. <img width="160" alt="VBA_Challenge_2018_Time" src="https://user-images.githubusercontent.com/90646961/134580615-618f043d-eee6-470c-be74-a6b856282837.png">
+1. <img width="157" alt="VBA_Original_2017_Time" src="https://user-images.githubusercontent.com/90646961/134580576-8822ca63-3885-4322-8ce4-6a524693721b.png"> <img width="162" alt="VBA_Original_2018_Time" src="https://user-images.githubusercontent.com/90646961/134580610-c0a8bbb7-655a-4c2c-9f53-e4c99ea45c2a.png">
+2. <img width="162" alt="VBA_Challenge_2017_Time" src="https://user-images.githubusercontent.com/90646961/134580597-4d040974-a3a9-4694-9f2a-81de49d65a1b.png"> <img width="160" alt="VBA_Challenge_2018_Time" src="https://user-images.githubusercontent.com/90646961/134580615-618f043d-eee6-470c-be74-a6b856282837.png">
 
 Both macro versions have been provided below for reference.
 
